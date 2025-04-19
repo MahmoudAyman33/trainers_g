@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/4t4/Desktop/trainers_g/src/etl/ML/mlruns/148850111352435621/f0fc80eec69a41d985bdede002651b9f/artifacts
+end_time: 1745065612674
+entry_point_name: ''
+experiment_id: '148850111352435621'
+lifecycle_stage: active
+run_id: f0fc80eec69a41d985bdede002651b9f
+run_name: Extreme Gradient Boosting
+run_uuid: f0fc80eec69a41d985bdede002651b9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745065612316
+status: 3
+tags: []
+user_id: 4t4

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/4t4/Desktop/trainers_g/src/etl/ML/mlruns/148850111352435621/6150ced2e3c546a89da60204a27a3b27/artifacts
+end_time: 1745065614329
+entry_point_name: ''
+experiment_id: '148850111352435621'
+lifecycle_stage: active
+run_id: 6150ced2e3c546a89da60204a27a3b27
+run_name: Gradient Boosting Regressor
+run_uuid: 6150ced2e3c546a89da60204a27a3b27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745065614045
+status: 3
+tags: []
+user_id: 4t4

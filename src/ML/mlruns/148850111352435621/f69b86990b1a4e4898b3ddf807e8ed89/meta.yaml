@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/4t4/Desktop/trainers_g/src/etl/ML/mlruns/148850111352435621/f69b86990b1a4e4898b3ddf807e8ed89/artifacts
+end_time: 1745065617542
+entry_point_name: ''
+experiment_id: '148850111352435621'
+lifecycle_stage: active
+run_id: f69b86990b1a4e4898b3ddf807e8ed89
+run_name: Lasso Regression
+run_uuid: f69b86990b1a4e4898b3ddf807e8ed89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745065617149
+status: 3
+tags: []
+user_id: 4t4

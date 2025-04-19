@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/4t4/Desktop/trainers_g/src/etl/ML/mlruns/989393636805515642/245deea0d2904abb963d4476bbe37142/artifacts
+end_time: 1745064859904
+entry_point_name: ''
+experiment_id: '989393636805515642'
+lifecycle_stage: active
+run_id: 245deea0d2904abb963d4476bbe37142
+run_name: Lasso Least Angle Regression
+run_uuid: 245deea0d2904abb963d4476bbe37142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745064859594
+status: 3
+tags: []
+user_id: 4t4

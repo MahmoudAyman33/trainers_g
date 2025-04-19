@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/4t4/Desktop/trainers_g/src/etl/ML/mlruns/0/96fa1ef8547747cc93e1f09df76a0f72/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96fa1ef8547747cc93e1f09df76a0f72
+run_name: rumbling-chimp-216
+run_uuid: 96fa1ef8547747cc93e1f09df76a0f72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745065548841
+status: 1
+tags: []
+user_id: 4t4

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/4t4/Desktop/trainers_g/src/etl/ML/mlruns/989393636805515642/82f5a90aa8014d8d9b2600db5646fcff/artifacts
+end_time: 1745064863756
+entry_point_name: ''
+experiment_id: '989393636805515642'
+lifecycle_stage: active
+run_id: 82f5a90aa8014d8d9b2600db5646fcff
+run_name: Least Angle Regression
+run_uuid: 82f5a90aa8014d8d9b2600db5646fcff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745064863442
+status: 3
+tags: []
+user_id: 4t4

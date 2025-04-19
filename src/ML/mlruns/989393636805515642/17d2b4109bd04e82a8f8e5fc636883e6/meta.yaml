@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/4t4/Desktop/trainers_g/src/etl/ML/mlruns/989393636805515642/17d2b4109bd04e82a8f8e5fc636883e6/artifacts
+end_time: 1745064862838
+entry_point_name: ''
+experiment_id: '989393636805515642'
+lifecycle_stage: active
+run_id: 17d2b4109bd04e82a8f8e5fc636883e6
+run_name: CatBoost Regressor
+run_uuid: 17d2b4109bd04e82a8f8e5fc636883e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745064862564
+status: 3
+tags: []
+user_id: 4t4

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/4t4/Desktop/trainers_g/src/etl/ML/mlruns/148850111352435621/872414d6d16c4017927356fd556d6aef/artifacts
+end_time: 1745065613919
+entry_point_name: ''
+experiment_id: '148850111352435621'
+lifecycle_stage: active
+run_id: 872414d6d16c4017927356fd556d6aef
+run_name: Light Gradient Boosting Machine
+run_uuid: 872414d6d16c4017927356fd556d6aef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745065613644
+status: 3
+tags: []
+user_id: 4t4

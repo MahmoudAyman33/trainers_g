@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/4t4/Desktop/trainers_g/src/etl/ML/mlruns/989393636805515642/f9433dcd91f24c98a1440e3fddc50308/artifacts
+end_time: 1745064860708
+entry_point_name: ''
+experiment_id: '989393636805515642'
+lifecycle_stage: active
+run_id: f9433dcd91f24c98a1440e3fddc50308
+run_name: Orthogonal Matching Pursuit
+run_uuid: f9433dcd91f24c98a1440e3fddc50308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745064860444
+status: 3
+tags: []
+user_id: 4t4

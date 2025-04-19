@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/4t4/Desktop/trainers_g/src/etl/ML/mlruns/989393636805515642/a313e1a6cb83479784409c12a6d106da/artifacts
+end_time: 1745065018685
+entry_point_name: ''
+experiment_id: '989393636805515642'
+lifecycle_stage: active
+run_id: a313e1a6cb83479784409c12a6d106da
+run_name: Random Forest Regressor
+run_uuid: a313e1a6cb83479784409c12a6d106da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745065018322
+status: 3
+tags: []
+user_id: 4t4

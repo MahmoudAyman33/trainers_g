@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/4t4/Desktop/trainers_g/src/etl/ML/mlruns/989393636805515642/ea052e3a8e1a42b88093b7468f8b5662/artifacts
+end_time: 1745064858415
+entry_point_name: ''
+experiment_id: '989393636805515642'
+lifecycle_stage: active
+run_id: ea052e3a8e1a42b88093b7468f8b5662
+run_name: Bayesian Ridge
+run_uuid: ea052e3a8e1a42b88093b7468f8b5662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745064858142
+status: 3
+tags: []
+user_id: 4t4

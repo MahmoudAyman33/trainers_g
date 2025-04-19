@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/4t4/Desktop/trainers_g/src/etl/ML/mlruns/148850111352435621/8aab8ef54be44d68a69cf41af51861f2/artifacts
+end_time: 1745065618985
+entry_point_name: ''
+experiment_id: '148850111352435621'
+lifecycle_stage: active
+run_id: 8aab8ef54be44d68a69cf41af51861f2
+run_name: Elastic Net
+run_uuid: 8aab8ef54be44d68a69cf41af51861f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745065618700
+status: 3
+tags: []
+user_id: 4t4
